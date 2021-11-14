@@ -1,13 +1,22 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
-To setup locally:
+## To build
+1.  Clone the repo:
+```bash
+git clone https://github.com/demolaemrick/nextjs-mui-typescript-starter.git
+```
+2.  Change into the project directory you'd like to run:
+```bash
+cd <name-of-your-directory>
+```
+4.  Install the dependencies:
 ```bash
 npm install
 # or
 yarn install
 ```
 
+## Getting Started
 Run the development server:
 
 ```bash
